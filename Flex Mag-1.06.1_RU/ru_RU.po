@@ -1,0 +1,1306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flex Mag v1.06.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-08 13:39+0200\n"
+"PO-Revision-Date: 2016-03-09 16:28+0200\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Dizer7 <dizer7@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mvp-text
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Эта запись защищена паролем. Введите пароль чтобы читать комментарии."
+
+# @ mvp-text
+#: comments.php:25 comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+# @ mvp-text
+#: comments.php:26 comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+# @ mvp-text
+#: comments.php:51
+msgid "You must be logged in to post a comment"
+msgstr "Вы должны войти чтобы оставлять комментарии"
+
+# @ mvp-text
+#: comments.php:53
+msgid "Login"
+msgstr "Войти"
+
+# @ mvp-text
+#: comments.php:62 comments.php:63
+msgid "Leave a Reply"
+msgstr "Оставить комментарий "
+
+# @ mvp-text
+#: functions.php:1256
+msgid "Page"
+msgstr "Страница"
+
+# @ mvp-text
+#: functions.php:573
+msgid "Featured Headline"
+msgstr "Заголовок"
+
+# @ mvp-text
+#: functions.php:616
+msgid ""
+"Add a custom featured headline that will be displayed in the featured slider."
+msgstr "Укажите свой заголовок, который будет отображаться в Слайдере."
+
+# @ mvp-text
+#: functions.php:1070
+#, php-format
+msgid "%s "
+msgstr "%s "
+
+# @ mvp-text
+#: functions.php:1073
+msgid "at"
+msgstr "в"
+
+# @ mvp-text
+#: functions.php:1074 functions.php:1100
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ mvp-text
+#: functions.php:1082
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ mvp-text
+#: functions.php:1100
+msgid "Pingback:"
+msgstr "Пингбек:"
+
+# @ mvp-text
+#: admin/theme-settings.php:122
+msgid "Custom Favicon"
+msgstr "Иконка сайта"
+
+# @ mvp-text
+#: admin/theme-settings.php:123
+msgid ""
+"Upload a 16x16px PNG/GIF image that will represent your website's favicon."
+msgstr "Загрузите изображение размером 16х16px формата PNG/GIF."
+
+# @ mvp-text
+#: admin/theme-settings.php:151
+msgid "Primary Theme Color"
+msgstr "Основной цвет темы"
+
+# @ mvp-text
+#: admin/theme-settings.php:199
+msgid "Primary Link Color"
+msgstr "Цвет ссылок"
+
+# @ mvp-text
+#: admin/theme-settings.php:200
+msgid "Primary link color for the site."
+msgstr "Применяется ко всем основным ссылкам сайта."
+
+# @ mvp-text
+#: admin/theme-settings.php:128
+msgid "Custom CSS"
+msgstr "Ваш код CSS"
+
+# @ mvp-text
+#: admin/theme-settings.php:421
+msgid "Show Author Info?"
+msgstr "Отображать инфу об авторе?"
+
+# @ mvp-text
+#: admin/theme-settings.php:250 admin/theme-settings.php:477
+#: admin/theme-settings.php:745
+msgid "Attention"
+msgstr "Внимание"
+
+# @ mvp-text
+#: admin/theme-settings.php:686
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ mvp-text
+#: admin/theme-settings.php:692
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ mvp-text
+#: admin/theme-settings.php:698
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ mvp-text
+#: admin/theme-settings.php:710
+msgid "Google Plus"
+msgstr "Google Plus"
+
+# @ mvp-text
+#: admin/theme-settings.php:716
+msgid "Youtube"
+msgstr "YouTube"
+
+# @ mvp-text
+#: admin/theme-settings.php:722
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+# @ mvp-text
+#: admin/theme-settings.php:778
+msgid "Wallpaper Ad Image URL"
+msgstr "Ссылка на рекламное фоновое изображение"
+
+# @ mvp-text
+#: admin/theme-settings.php:813
+msgid "Copyright Text"
+msgstr "Копирайт"
+
+# @ mvp-text
+#: widgets/widget-catlist.php:19 widgets/widget-catrow.php:19
+msgid "A widget that displays a list of posts from a category of your choice."
+msgstr "Виджет отображает записи из выбранной категории."
+
+# @ mvp-text
+#: widgets/widget-facebook.php:19
+msgid "A widget that displays a Facebook Like Box."
+msgstr "Виджет, который отображает Facebook Like."
+
+# @ mvp-text
+#: header.php:184
+msgid "Latest"
+msgstr "Последние"
+
+# @ mvp-text
+#: widgets/widget-tags.php:19
+msgid "A custom Tag Cloud widget."
+msgstr "Виджет облака тегов."
+
+# @ mvp-text
+#: 404.php:7
+msgid "Error"
+msgstr "Ошибка"
+
+# @ mvp-text
+#: 404.php:8
+msgid "The page you requested does not exist or has moved."
+msgstr "Запрашиваемая Вами страница не существует или была перемещена."
+
+# @ mvp-text
+#: admin/theme-settings.php:397
+msgid "Article Settings"
+msgstr "7. Настройки статьи"
+
+# @ mvp-text
+#: admin/theme-settings.php:704
+msgid "Instagram"
+msgstr "Instagram"
+
+# @ mvp-text
+#: admin/theme-settings.php:742
+msgid "Ad Management"
+msgstr "11. Реклама"
+
+# @ mvp-text
+#: admin/theme-settings.php:792
+msgid "Footer Info"
+msgstr "12. Футер"
+
+# @ mvp-text
+#: archive.php:9
+msgid "All posts tagged"
+msgstr "Все статьи с тегами"
+
+# @ mvp-text
+#: functions.php:440
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+# @ mvp-text
+#: search.php:9
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+# @ mvp-text
+#: content-partial.php:20 content-partial.php:76 single.php:25 single.php:82
+#: single.php:131
+msgid "By"
+msgstr "От"
+
+# @ mvp-text
+#: header.php:187
+msgid "Popular"
+msgstr "ТОП"
+
+# @ mvp-text
+#: content-partial.php:170 single.php:157 single.php:215
+msgid "Comments"
+msgstr "Мнения"
+
+# @ mvp-text
+#: comments-popup.php:103
+msgid "Post Comment"
+msgstr "Отправить"
+
+# @ mvp-text
+#: admin/theme-settings.php:80
+msgid "General"
+msgstr "1. Общие"
+
+# @ mvp-text
+#: admin/theme-settings.php:134
+msgid "Toggle Responsiveness"
+msgstr "Поддержка мобильных устройств"
+
+# @ mvp-text
+#: latest.php:99
+msgid "More"
+msgstr "Больше"
+
+# @ mvp-text
+#: functions.php:564
+msgid "Video/Audio Embed"
+msgstr "Код видео/аудио"
+
+# @ mvp-text
+#: functions.php:600
+msgid "Featured Image Show/Hide"
+msgstr "Показать/Спрятать миниатюру"
+
+# @ mvp-text
+#: functions.php:631
+msgid "Enter your video or audio embed code."
+msgstr "Вставьте код на видео или аудио."
+
+# @ mvp-text
+#: functions.php:717
+msgid ""
+"Select to show or hide the featured image from automatically displaying in "
+"this post."
+msgstr "Выберите, показывать или спрятать миниатюру в записи."
+
+# @ mvp-text
+#: admin/theme-settings.php:84
+msgid "Theme Skin"
+msgstr "Скин темы"
+
+# @ mvp-text
+#: admin/theme-settings.php:85
+msgid ""
+"Select your theme skin. If you want to change the colors and fonts manually, "
+"please select Custom."
+msgstr ""
+"Выберите скин темы. Если хотите уазать свои настройки цвет, то выберите "
+"Custom."
+
+# @ mvp-text
+#: admin/theme-settings.php:93
+msgid "Fly-Out Menu Skin"
+msgstr "Скин для Выезжающего меню"
+
+# @ mvp-text
+#: admin/theme-settings.php:94
+msgid "Choose between a light and dark skin for the Fly-Out menu."
+msgstr "Выберите светлый или темный вариант."
+
+# @ framework_localize
+#: admin/theme-settings.php:102
+msgid "Logo Location"
+msgstr "Расположение логотипа"
+
+# @ framework_localize
+#: admin/theme-settings.php:103
+msgid "Set the location of your logo."
+msgstr "Укажите расположение логотипа."
+
+# @ mvp-text
+#: admin/theme-settings.php:110
+msgid "Logo"
+msgstr "Логотип"
+
+# @ mvp-text
+#: admin/theme-settings.php:111
+msgid ""
+"Select a file to appear as your logo that will appear in the floating "
+"navigation bar and will replace the default \"Flex Mag\" logo."
+msgstr "Укажите логотип."
+
+# @ mvp-text
+#: admin/theme-settings.php:116
+msgid "Logo in Navigation"
+msgstr "Логотип в меню"
+
+# @ mvp-text
+#: admin/theme-settings.php:117
+msgid ""
+"If you are displaying your logo above the navigation, you can upload a "
+"separate logo that will appear in the floating navigation bar as you scroll "
+"down the page on desktop computers. It will also appear on mobile and tablet "
+"devices."
+msgstr ""
+"Вы можете загрузить отдельный логотип, который будет отображаться в "
+"прикрепленном меню (отображается при прокрутке вниз). Этот логотип и меню "
+"будет также отображаться на мобильных и портативных устройствах."
+
+# @ mvp-text
+#: admin/theme-settings.php:140
+msgid "Toggle Infinite Scroll"
+msgstr "Бесконечная прокрутка"
+
+# @ mvp-text
+#: admin/theme-settings.php:148
+msgid "Colors"
+msgstr "2. Цвет"
+
+# @ mvp-text
+#: admin/theme-settings.php:152
+msgid "Primary color for the site."
+msgstr "Основной цвет"
+
+# @ mvp-text
+#: admin/theme-settings.php:157
+msgid "Top Navigation Background Color"
+msgstr "Цвет фона верхнего меню"
+
+# @ mvp-text
+#: admin/theme-settings.php:158
+msgid "The background color of the top navigation."
+msgstr "Выберите цвет"
+
+# @ mvp-text
+#: admin/theme-settings.php:163
+msgid "Top Navigation Text Color"
+msgstr "Цвет текста верхнего меню"
+
+# @ mvp-text
+#: admin/theme-settings.php:164
+msgid "The text color of the top navigation."
+msgstr "Выберите цвет"
+
+# @ mvp-text
+#: admin/theme-settings.php:169
+msgid "Top Navigation Text Hover Color"
+msgstr "Цвет текста верхнего меню при наведении"
+
+# @ mvp-text
+#: admin/theme-settings.php:170
+msgid "The text color when you mouse over the top navigation."
+msgstr "Выберите цвет."
+
+# @ mvp-text
+#: admin/theme-settings.php:175
+msgid "Fly-Out Button Background Color"
+msgstr "Фоновый цвет кнопки Выезжающего меню"
+
+# @ mvp-text
+#: admin/theme-settings.php:176
+msgid "The background color of the Fly-Out Menu Button."
+msgstr "Выберите фоновый цвет."
+
+# @ mvp-text
+#: admin/theme-settings.php:181
+msgid "Fly-Out Button Lines Color"
+msgstr "Цвет линий на кнопке Выезжающего меню"
+
+# @ mvp-text
+#: admin/theme-settings.php:182
+msgid "The background color of the Fly-Out Menu Button Lines."
+msgstr "Выберите цвет линий."
+
+# @ mvp-text
+#: admin/theme-settings.php:187
+msgid "Main Headlines Link Color"
+msgstr "Цвет ссылок заголовков"
+
+# @ mvp-text
+#: admin/theme-settings.php:188
+msgid "The text color of the headline links."
+msgstr "Цвет ссылок заголовков при наведении"
+
+# @ mvp-text
+#: admin/theme-settings.php:193
+msgid "Main Headlines Link Hover Color"
+msgstr "Цвет ссылок заголовков при наведении"
+
+# @ mvp-text
+#: admin/theme-settings.php:194
+msgid "The text color when you mouse over the headline links."
+msgstr "Выберите цвет."
+
+# @ mvp-text
+#: admin/theme-settings.php:205
+msgid "Link Hover Color"
+msgstr "Цвет ссылок при наведении"
+
+# @ mvp-text
+#: admin/theme-settings.php:206
+msgid "Link hover color for the site."
+msgstr "Выберите цвет."
+
+# @ mvp-text
+#: admin/theme-settings.php:212
+msgid "Fonts"
+msgstr "3. Шрифты"
+
+# @ mvp-text
+#: admin/theme-settings.php:215
+msgid "General Content Font"
+msgstr "Основной шрифт контента"
+
+# @ mvp-text
+#: admin/theme-settings.php:216
+msgid "Enter the font name for the general font for the content on all pages."
+msgstr "Выберите шрифт, который будет применен для всех страниц."
+
+# @ mvp-text
+#: admin/theme-settings.php:221
+msgid "Fly-Out Menu/Top Navigation Font"
+msgstr "Шрифт для Верхнего и Выезжающего меню"
+
+# @ mvp-text
+#: admin/theme-settings.php:227
+msgid "Featured Posts/Article Headline Font"
+msgstr "Шрифт заголовка избранных записей/статей"
+
+# @ mvp-text
+#: admin/theme-settings.php:233
+msgid "General Headline Font"
+msgstr "Шрифт заголовка (заголовки на всем сайте)"
+
+# @ mvp-text
+#: admin/theme-settings.php:239
+msgid "General Heading Font"
+msgstr "Шрифт заголовка (заголовки в верхней части сайта)"
+
+# @ mvp-text
+#: admin/theme-settings.php:247
+msgid "Homepage Settings"
+msgstr "4. Главная страница"
+
+# @ mvp-text
+#: admin/theme-settings.php:257 admin/theme-settings.php:490
+msgid "Featured Posts Layout"
+msgstr "Макет избранных записей"
+
+# @ mvp-text
+#: admin/theme-settings.php:258
+msgid "Select the layout of your Featured Posts section on the homepage."
+msgstr "Выберите макет."
+
+# @ mvp-text
+#: admin/theme-settings.php:265
+msgid "Show Featured Posts?"
+msgstr "Отображать избранные записи"
+
+# @ mvp-text
+#: admin/theme-settings.php:272
+msgid "Featured Posts Tag Slug"
+msgstr "Тег ярлыка для выборки избранных записей"
+
+# @ mvp-text
+#: admin/theme-settings.php:273
+msgid ""
+"Posts with this Tag will be displayed in the Featured Slider at the top of "
+"the homepage."
+msgstr ""
+"Записи с этим тегом будут отображаться в Избранном на главной странице сайта."
+
+# @ mvp-text
+#: admin/theme-settings.php:280
+msgid "Featured Heading"
+msgstr "Заголовок для области Избранное"
+
+# @ mvp-text
+#: admin/theme-settings.php:287
+msgid "Homepage Body Layout"
+msgstr "Наполнение главной страницы"
+
+# @ mvp-text
+#: admin/theme-settings.php:288
+msgid ""
+"Select your layout for the body of the homepage that will appear in the "
+"middle column of the homepage."
+msgstr "Выберите макет, который будет отображаться в средней колонке."
+
+# @ mvp-text
+#: admin/theme-settings.php:295
+msgid "Show Homepage Left Sidebar?"
+msgstr "Отображать сайдбар слева?"
+
+# @ mvp-text
+#: admin/theme-settings.php:302
+msgid "Homepage Left Sidebar Layout"
+msgstr "Макет левого сайдбара"
+
+# @ mvp-text
+#: admin/theme-settings.php:303
+msgid "Select your layout for the left sidebar on the homepage."
+msgstr "Выберите макет."
+
+# @ mvp-text
+#: admin/theme-settings.php:311
+msgid "Homepage Right Sidebar Layout"
+msgstr "Макет правого сайдбара"
+
+# @ mvp-text
+#: admin/theme-settings.php:312
+msgid "Select your layout for the right sidebar on the homepage."
+msgstr "Выберите макет."
+
+# @ mvp-text
+#: admin/theme-settings.php:319
+msgid "Number of posts per page"
+msgstr "Количество записей на странице"
+
+# @ mvp-text
+#: admin/theme-settings.php:327
+msgid "Latest News Settings"
+msgstr "5. Недавние новости"
+
+# @ mvp-text
+#: admin/theme-settings.php:330
+msgid "Latest News Heading"
+msgstr "Заголовок"
+
+# @ mvp-text
+#: admin/theme-settings.php:336
+msgid "Maximum Number of Latest News Stories"
+msgstr "Количество записей"
+
+# @ mvp-text
+#: admin/theme-settings.php:343
+msgid "Latest News Position"
+msgstr "Расположение последних новостей"
+
+# @ mvp-text
+#: admin/theme-settings.php:344
+msgid ""
+"Select whether to display the Latest News sidebar on the left or the right "
+"of the main section of the homepage."
+msgstr ""
+"Сайдбар с последними новостями будет располагаться слева или справа от "
+"основной части контента на главной странице."
+
+# @ mvp-text
+#: admin/theme-settings.php:352
+msgid "More Latest News Page"
+msgstr "Страница с недавними новостями"
+
+# @ mvp-text
+#: admin/theme-settings.php:353
+msgid ""
+"Select the page for your Latest News Template. Refer to the documentation "
+"for more information on how to set up custom Page templates."
+msgstr "Выберите страницу с шаблоном Последние новости."
+
+# @ mvp-text
+#: admin/theme-settings.php:360
+msgid "Latest News Ad Code"
+msgstr "Вставка рекламы"
+
+# @ mvp-text
+#: admin/theme-settings.php:368
+msgid "Popular Posts Settings"
+msgstr "6. Популярные новости"
+
+# @ mvp-text
+#: admin/theme-settings.php:371
+msgid "Popular Posts Heading"
+msgstr "Заголовок"
+
+# @ mvp-text
+#: admin/theme-settings.php:377
+msgid "Number of Popular Posts"
+msgstr "Количество записей"
+
+# @ mvp-text
+#: admin/theme-settings.php:383
+msgid "Popular Posts Days"
+msgstr "Выбрать записи за последнее количество дней"
+
+# @ mvp-text
+#: admin/theme-settings.php:389
+msgid "Popular Posts Ad Code"
+msgstr "Вставка рекламы"
+
+# @ mvp-text
+#: admin/theme-settings.php:401
+msgid "Default Post Template"
+msgstr "Шаблон записи по умолчанию"
+
+# @ mvp-text
+#: admin/theme-settings.php:402
+msgid "Select the default Post Template layout for your articles."
+msgstr "Выберите шаблон записи для ваших статей."
+
+# @ mvp-text
+#: admin/theme-settings.php:409
+msgid "Show Featured Image In Posts?"
+msgstr "Отображать миниатюры в записях"
+
+# @ mvp-text
+#: admin/theme-settings.php:410
+msgid ""
+"Uncheck this box if you would like to remove the featured image thumbnail "
+"from all posts."
+msgstr "Снимите отметку, если нужно скрыть миниатюры в записях."
+
+# @ mvp-text
+#: admin/theme-settings.php:415
+msgid "Show Social Sharing Buttons?"
+msgstr "Отображать кнопки шаринга?"
+
+# @ mvp-text
+#: admin/theme-settings.php:427
+msgid "Show Author Email?"
+msgstr "Отображать почту автора?"
+
+# @ mvp-text
+#: admin/theme-settings.php:433
+msgid "Show Related Posts?"
+msgstr "Отображать похожие записи?"
+
+# @ mvp-text
+#: admin/theme-settings.php:439
+msgid "Auto Load Previous Post?"
+msgstr "Автоматическая загрузка предыдущих записей?"
+
+# @ mvp-text
+#: admin/theme-settings.php:445
+msgid "Show Previous/Next Post Links?"
+msgstr "Отображать ссылки на Следующую/Предыдущую запись?"
+
+# @ mvp-text
+#: admin/theme-settings.php:452
+msgid "Article Sidebar Layout"
+msgstr "Макет сайдбара статей"
+
+# @ mvp-text
+#: admin/theme-settings.php:453
+msgid "Select your layout for the sidebar on article pages."
+msgstr "Выберите макет сайдбара для страниц статей."
+
+# @ mvp-text
+#: admin/theme-settings.php:460
+msgid "Disqus Forum Shortname"
+msgstr "Система комментирования Disqus (введите свой уникальный идентификатор)"
+
+# @ mvp-text
+#: admin/theme-settings.php:466
+msgid "Article Ad Code"
+msgstr "Вставка рекламы в статью"
+
+# @ mvp-text
+#: admin/theme-settings.php:474
+msgid "Category Pages"
+msgstr "8. Категория"
+
+# @ mvp-text
+#: admin/theme-settings.php:483
+msgid "Show Featured Posts"
+msgstr "Отображение избранных записей"
+
+# @ mvp-text
+#: admin/theme-settings.php:491
+msgid "Select the layout of your Featured Posts section on the category pages."
+msgstr "Выберите макет для отображения избранных записей."
+
+# @ mvp-text
+#: admin/theme-settings.php:499
+msgid "Category/Archive Body Layout"
+msgstr "Макет Категории/Архива записей"
+
+# @ mvp-text
+#: admin/theme-settings.php:500
+msgid "Select your layout for the body of your category and archive pages."
+msgstr "Выберите макет."
+
+# @ mvp-text
+#: admin/theme-settings.php:511
+msgid "Scoreboard Settings"
+msgstr "9. Табло"
+
+# @ mvp-text
+#: admin/theme-settings.php:514
+msgid "Show Scoreboard?"
+msgstr "Отображатьтабло?"
+
+# @ mvp-text
+#: admin/theme-settings.php:515
+msgid "Uncheck this box if you would like to remove the scoreboard."
+msgstr "Снимите отметку, если не хотите отображать табло."
+
+# @ mvp-text
+#: admin/theme-settings.php:521
+msgid "Scoreboard Skin"
+msgstr "Скин"
+
+# @ mvp-text
+#: admin/theme-settings.php:522
+msgid "Choose between a light and dark skin for the scoreboard."
+msgstr "Выберите темный или светлый стиль."
+
+# @ mvp-text
+#: admin/theme-settings.php:529
+msgid "Name of Category 1"
+msgstr "Название категории 1"
+
+# @ mvp-text
+#: admin/theme-settings.php:536
+msgid "Select Category 1"
+msgstr "Выберите категорию 1"
+
+# @ mvp-text
+#: admin/theme-settings.php:537
+msgid "Select the 1st category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:544
+msgid "Name of Category 2"
+msgstr "Название категории 2"
+
+# @ mvp-text
+#: admin/theme-settings.php:551
+msgid "Select Category 2"
+msgstr "Выберите категорию 2"
+
+# @ mvp-text
+#: admin/theme-settings.php:552
+msgid "Select the 2nd category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:559
+msgid "Name of Category 3"
+msgstr "Название категории 3"
+
+# @ mvp-text
+#: admin/theme-settings.php:566
+msgid "Select Category 3"
+msgstr "Выберите категорию 3"
+
+# @ mvp-text
+#: admin/theme-settings.php:567
+msgid "Select the 3rd category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:574
+msgid "Name of Category 4"
+msgstr "Название категории 4"
+
+# @ mvp-text
+#: admin/theme-settings.php:581
+msgid "Select Category 4"
+msgstr "Выберите категорию 4"
+
+# @ mvp-text
+#: admin/theme-settings.php:582
+msgid "Select the 4th category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:589
+msgid "Name of Category 5"
+msgstr "Название категории 5"
+
+# @ mvp-text
+#: admin/theme-settings.php:596
+msgid "Select Category 5"
+msgstr "Выберите категорию 5"
+
+# @ mvp-text
+#: admin/theme-settings.php:597
+msgid "Select the 5th category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:604
+msgid "Name of Category 6"
+msgstr "Название категории 6"
+
+# @ mvp-text
+#: admin/theme-settings.php:611
+msgid "Select Category 6"
+msgstr "Выберите категорию 6"
+
+# @ mvp-text
+#: admin/theme-settings.php:612
+msgid "Select the 6th category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:619
+msgid "Name of Category 7"
+msgstr "Название категории 7"
+
+# @ mvp-text
+#: admin/theme-settings.php:626
+msgid "Select Category 7"
+msgstr "Выберите категорию 7"
+
+# @ mvp-text
+#: admin/theme-settings.php:627
+msgid "Select the 7th category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:634
+msgid "Name of Category 8"
+msgstr "Название категории 8"
+
+# @ mvp-text
+#: admin/theme-settings.php:641
+msgid "Select Category 8"
+msgstr "Выберите категорию 8"
+
+# @ mvp-text
+#: admin/theme-settings.php:642
+msgid "Select the 8th category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:649
+msgid "Name of Category 9"
+msgstr "Название категории 9"
+
+# @ mvp-text
+#: admin/theme-settings.php:656
+msgid "Select Category 9"
+msgstr "Выберите категорию 9"
+
+# @ mvp-text
+#: admin/theme-settings.php:657
+msgid "Select the 9th category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:664
+msgid "Name of Category 10"
+msgstr "Название категории 10"
+
+# @ mvp-text
+#: admin/theme-settings.php:671
+msgid "Select Category 10"
+msgstr "Выберите категорию 10"
+
+# @ mvp-text
+#: admin/theme-settings.php:672
+msgid "Select the 10th category for your scoreboard."
+msgstr "Выберите категорию."
+
+# @ mvp-text
+#: admin/theme-settings.php:683
+msgid "Social Media"
+msgstr "10. Социальные сети"
+
+# @ mvp-text
+#: admin/theme-settings.php:728
+msgid "Tumblr"
+msgstr "Tumblr"
+
+# @ mvp-text
+#: admin/theme-settings.php:734
+msgid "Custom RSS Link"
+msgstr "Ссылка на канал RSS"
+
+# @ framework_localize
+#: admin/theme-settings.php:752
+msgid "Leaderboard Location"
+msgstr "Реклама в шапке"
+
+# @ framework_localize
+#: admin/theme-settings.php:753
+msgid "Set the location of your leaderboard."
+msgstr "Установите расположение рекламы."
+
+# @ mvp-text
+#: admin/theme-settings.php:760
+msgid "Header Leaderboard Ad Code"
+msgstr "Код рекламы в шапке"
+
+# @ mvp-text
+#: admin/theme-settings.php:766
+msgid "Responsive Ad Area Below Article"
+msgstr "Адаптивная рекламная область ниже статьи"
+
+# @ mvp-text
+#: admin/theme-settings.php:772
+msgid "Footer Leaderboard Ad Code"
+msgstr "Код рекламы для отображения в футере"
+
+# @ mvp-text
+#: admin/theme-settings.php:784
+msgid "Wallpaper Ad Click-Through URL"
+msgstr "URL ссылки для рекламного фонового изображения"
+
+# @ mvp-text
+#: admin/theme-settings.php:795
+msgid "Show Footer Info Box?"
+msgstr "Показать информационный блок в футере?"
+
+# @ mvp-text
+#: admin/theme-settings.php:801
+msgid "Footer Logo"
+msgstr "Логотип в футере"
+
+# @ mvp-text
+#: admin/theme-settings.php:802
+msgid "Select a file to appear as the logo in the Footer Info Box."
+msgstr "Выберите логотип."
+
+# @ mvp-text
+#: admin/theme-settings.php:807
+msgid "Footer Info Text"
+msgstr "Текст для отображения в футере"
+
+# @ mvp-text
+#: archive.php:63 author.php:118 category.php:334 index.php:62
+#: page-home.php:359 page-latest.php:68 page-videos.php:90 search.php:63
+msgid "More Posts"
+msgstr "Больше записей"
+
+# @ mvp-text
+#: attachment.php:17 attachment.php:19 content-partial.php:116
+#: content-partial.php:118 content-partial.php:119 content-partial.php:157
+#: content-partial.php:159 content-partial.php:160 functions.php:1037
+#: page-videos.php:26 page-videos.php:28 single.php:146 single.php:148
+#: single.php:149 single.php:196 single.php:198 single.php:199
+msgid "Share"
+msgstr "Поделиться"
+
+# @ mvp-text
+#: attachment.php:18 content-partial.php:117 content-partial.php:158
+#: page-videos.php:27 single.php:147 single.php:197
+msgid "Tweet"
+msgstr "Твитнуть"
+
+# @ mvp-text
+#: author.php:63
+msgid "Posts By"
+msgstr "Записи от"
+
+# @ mvp-text
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: comments-popup.php:38 comments.php:19 content-partial.php:175
+#: page-fullwidth.php:28 page-fullwidth.php:34 page.php:27 page.php:33
+#: single.php:221
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 комментарий"
+msgstr[1] "Комментариев %1$s"
+msgstr[2] "Комментариев %1$s"
+
+# @ mvp-text
+#: comments-popup.php:58
+#, php-format
+msgid "%1$s &#8212; %2$s"
+msgstr "%1$s &#8212; %2$s"
+
+# @ mvp-text
+#: comments-popup.php:67
+msgid "No comments yet."
+msgstr "Нет комментариев"
+
+# @ mvp-text
+#: comments-popup.php:72
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ mvp-text
+#: comments-popup.php:76
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out &raquo;</a>"
+msgstr ""
+"Вы вошли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Выйти из "
+"системы\">Выйти?</a>"
+
+# @ mvp-text
+#: comments-popup.php:80
+msgid "Name"
+msgstr "Имя"
+
+# @ mvp-text
+#: comments-popup.php:85
+msgid "E-mail"
+msgstr "E-mail"
+
+# @ mvp-text
+#: comments-popup.php:90
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"универсальный указатель ресурса\">URL</abbr>"
+
+# @ mvp-text
+#: comments-popup.php:95
+msgid "Your Comment"
+msgstr "Ваш комментарий"
+
+# @ mvp-text
+#: comments-popup.php:112
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Извините, комментирование в настоящее время отключено."
+
+# @ mvp-text
+#: comments-popup.php:119
+msgid "Close this window."
+msgstr "Закрыть окно"
+
+# @ mvp-text
+#: comments-popup.php:125
+msgid "Sorry, no posts matched your criteria."
+msgstr "Извините, нет записей, удовлетворяющих вашим условиям поиска."
+
+# @ mvp-text
+#: content-partial.php:23 content-partial.php:79 single.php:28 single.php:85
+#: single.php:134
+msgid "Posted on"
+msgstr "Добавлено"
+
+# @ mvp-text
+#: content-partial.php:116 content-partial.php:157 single.php:146
+#: single.php:196
+msgid "Share on Facebook"
+msgstr "Поделиться в Facebook"
+
+# @ mvp-text
+#: content-partial.php:117 content-partial.php:158 single.php:147
+#: single.php:197
+msgid "Tweet This Post"
+msgstr "Твитнуть эту запись"
+
+# @ mvp-text
+#: content-partial.php:119 content-partial.php:160 single.php:149
+#: single.php:199
+msgid "Pin This Post"
+msgstr "Pin эту запись"
+
+# @ mvp-text
+#: content-partial.php:120 content-partial.php:161 page-videos.php:29
+#: single.php:150 single.php:200
+msgid ""
+"I found this article interesting and thought of sharing it with you. Check "
+"it out:"
+msgstr "Хочу поделиться с вами интересной статьей. Перейти:"
+
+# @ mvp-text
+#: content-partial.php:120 content-partial.php:161 page-videos.php:29
+#: single.php:150 single.php:200
+msgid "Email"
+msgstr "Email "
+
+# @ mvp-text
+#: content-partial.php:152 single.php:191
+msgid "Related Items:"
+msgstr "Похожие статьи"
+
+# @ mvp-text
+#: content-partial.php:170
+msgid "Comments Disabled"
+msgstr "Комментарии отключены"
+
+# @ mvp-text
+#: content-partial.php:175 page-fullwidth.php:28 page-fullwidth.php:34
+#: page.php:27 page.php:33 single.php:221
+msgid "Click to comment"
+msgstr "Нажмите здесь, чтобы оставить комментарий"
+
+# @ mvp-text
+#: content-partial.php:175 page-fullwidth.php:28 page-fullwidth.php:34
+#: page.php:27 page.php:33 single.php:221
+msgid "% Comments"
+msgstr "Комментариев %"
+
+# @ mvp-text
+#: footer.php:108
+msgid "To Top"
+msgstr "Наверх"
+
+# @ studio
+#: functions.php:68
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "вкл."
+
+# @ mvp-text
+#: functions.php:438
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ mvp-text
+#: functions.php:439
+msgid "Fly-Out Menu"
+msgstr "Выезжающее меню"
+
+# @ mvp-text
+#: functions.php:582
+msgid "Featured Image Caption"
+msgstr "Подпись на миниатюре"
+
+# @ mvp-text
+#: functions.php:591
+msgid "Post Template"
+msgstr "Шаблон записи"
+
+# @ mvp-text
+#: functions.php:646
+msgid "Add a caption and/or photo credit information for the featured image."
+msgstr "Добавить надпись на миниатюру."
+
+# @ mvp-text
+#: functions.php:661
+msgid "Select a template for your post."
+msgstr "Выберете шаблон для вашей записи."
+
+# @ mvp-text
+#: functions.php:1042
+msgid "Shares"
+msgstr "Поделиться"
+
+# @ mvp-text
+#: functions.php:1156
+msgid "Recommended for you"
+msgstr "Рекомендуется для вас"
+
+# @ mvp-text
+#: functions.php:1256
+msgid "of"
+msgstr "из"
+
+# @ mvp-text
+#: functions.php:1257
+msgid "First"
+msgstr "Первая"
+
+# @ mvp-text
+#: functions.php:1258
+msgid "Previous"
+msgstr "Предыдущая"
+
+# @ mvp-text
+#: functions.php:1268
+msgid "Next"
+msgstr "Следующая"
+
+# @ mvp-text
+#: functions.php:1269
+msgid "Last"
+msgstr "Последняя"
+
+# @ mvp-text
+#: functions.php:1428
+msgid "Loading more posts..."
+msgstr "Загрузить еще записи..."
+
+# @ mvp-text
+#: functions.php:1429
+msgid "Sorry, no more posts"
+msgstr "К сожалению, больше нет записей"
+
+# @ mvp-text
+#: header.php:181
+msgid "Featured"
+msgstr "Избранное"
+
+# @ mvp-text
+#: searchform.php:2
+msgid "Type search term and press enter"
+msgstr "Нажмите ENTER для поиска"
+
+# @ mvp-text
+#: widgets/widget-ad.php:19
+msgid "A widget that displays an ad of any size."
+msgstr "Виджет отображает рекламу."
+
+# @ mvp-text
+#: widgets/widget-ad.php:25
+msgid "Flex Mag: Ad Widget"
+msgstr "Flex Mag: Реклама"
+
+# @ mvp-text
+#: widgets/widget-catlist.php:25
+msgid "Flex Mag: Category List Widget"
+msgstr "Flex Mag: Список категорий"
+
+# @ mvp-text
+#: widgets/widget-catrow.php:25
+msgid "Flex Mag: Category Row Widget"
+msgstr "Flex Mag: Записи в ряд"
+
+# @ mvp-text
+#: widgets/widget-facebook.php:25
+msgid "Flex Mag: Facebook Widget"
+msgstr "Flex Mag: Facebook"
+
+# @ mvp-text
+#: widgets/widget-gallery.php:19
+msgid ""
+"A widget that displays a scrolling gallery of images from posts of your "
+"choice."
+msgstr "Виджет отображает галерею изображений из записей выбранной категории."
+
+# @ mvp-text
+#: widgets/widget-gallery.php:25
+msgid "Flex Mag: Gallery Widget"
+msgstr "Flex Mag: Галерея изображений из записей"
+
+# @ mvp-text
+#: widgets/widget-pop.php:19
+msgid ""
+"A widget that displays a list of popular posts within a time period of your "
+"choice."
+msgstr ""
+"Виджет, который отображает список популярных записей за период времени."
+
+# @ mvp-text
+#: widgets/widget-pop.php:25
+msgid "Flex Mag: Popular Posts Widget"
+msgstr "Flex Mag: Популярные записи"
+
+# @ mvp-text
+#: widgets/widget-tagfeat.php:19 widgets/widget-taglist.php:19
+#: widgets/widget-tagrow.php:19
+msgid "A widget that displays a list of posts from a tag of your choice."
+msgstr "Отображает записи по тегу."
+
+# @ mvp-text
+#: widgets/widget-tagfeat.php:25
+msgid "Flex Mag: Tag Featured Widget"
+msgstr "Flex Mag: Избранные записи"
+
+# @ mvp-text
+#: widgets/widget-taglist.php:25
+msgid "Flex Mag: Tag List Widget"
+msgstr "Flex Mag: Список записей по тегу"
+
+# @ mvp-text
+#: widgets/widget-tagrow.php:25
+msgid "Flex Mag: Tag Row Widget"
+msgstr "Flex Mag: Записи в ряд по тегу"
+
+# @ mvp-text
+#: widgets/widget-tags.php:25
+msgid "Flex Mag: Tag Cloud Widget"
+msgstr "Flex Mag: Облако тегов"

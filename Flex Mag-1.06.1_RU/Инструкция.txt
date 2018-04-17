@@ -1,0 +1,14 @@
+Подключение русификации для темы
+
+1) Залейте файлы ru_RU.mo и .htaccess на сайт
+в папку: /wp-content/themes/flex-mag/languages/
+
+2) Вставьте этот код:
+
+load_theme_textdomain('framework_localize', get_template_directory() . '/languages');
+load_theme_textdomain('studio', get_template_directory() . '/languages');
+
+в файл /wp-content/themes/flex-mag/functions.php
+после строки: 9
+
+Это все!
